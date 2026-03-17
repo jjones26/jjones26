@@ -43,8 +43,8 @@ Game developer and software developer based in Buffalo, NY. I build indie games 
 | Project | Description | Built With |
 |---|---|---|
 | [Space Arena](https://jjones26.itch.io/space-arena) | Fast-paced arcade shooter — survive waves and dominate | Godot, GDScript |
-| [The Daily Crostic](https://jjones26.itch.io/the-daily-crostic) | Daily word puzzle, fresh challenge every 24 hours | GDScript |
-| [Rogue Ball](https://jjones26.itch.io/rogue-ball) | Roguelite physics game with procedural generation | Unity, C# |
+| [The Daily Crostic](https://jjones26.itch.io/the-daily-crostic) | Daily word puzzle, fresh challenge every 24 hours | HTML, CSS, JS |
+| [Rogue Ball](https://jjones26.itch.io/rogue-ball) | Roguelite physics game with procedural generation | Godot, GDScript |
 
 ---
 
