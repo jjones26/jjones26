@@ -45,6 +45,7 @@ Game developer and software developer based in Buffalo, NY. I build indie games 
 | [Space Arena](https://jjones26.itch.io/space-arena) | Fast-paced arcade shooter — survive waves and dominate | Godot, GDScript |
 | [The Daily Crostic](https://jjones26.itch.io/the-daily-crostic) | Daily word puzzle, fresh challenge every 24 hours | HTML, CSS, JS |
 | [Rogue Ball](https://jjones26.itch.io/rogue-ball) | Roguelite physics game with procedural generation | Godot, GDScript |
+| [TwentyOne: Pure Blackjack](https://jjones26.itch.io/twentyone-blackjack) | A minimalist take on Blackjack 21 | HTML, CSS, JS |
 
 ---
 
