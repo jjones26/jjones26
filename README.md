@@ -52,14 +52,6 @@ Game developer and software developer based in Buffalo, NY. I build indie games 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjones26&show_icons=true&theme=dark&hide_border=true&bg_color=0e1117&title_color=00ff88&icon_color=00ff88&text_color=e2e8f0" alt="Jake's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjones26&layout=compact&theme=dark&hide_border=true&bg_color=0e1117&title_color=00ff88&text_color=e2e8f0" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjones26&theme=dark&hide_border=true&background=0e1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" alt="GitHub Streak" />
 </p>
 
