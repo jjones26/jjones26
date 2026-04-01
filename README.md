@@ -29,7 +29,7 @@ Game developer and software developer based in Buffalo, NY. I build indie games 
 | Certification | Issuer | Status |
 |---|---|---|
 | Responsive Web Design | freeCodeCamp | ✅ [Verified](https://www.freecodecamp.org/certification/jjones26/responsive-web-design) |
-| JavaScript Algorithms & Data Structures | freeCodeCamp | 🔄 In Progress |
+| JavaScript Algorithms & Data Structures | freeCodeCamp |   ✅ [Verified](https://www.freecodecamp.org/certification/jjones26/javascript-v9) |
 | Front-End Development Libraries | freeCodeCamp | 🔄 In Progress |
 | Back-End Development & APIs | freeCodeCamp | 🔄 In Progress |
 | Python | freeCodeCamp | 🔄 In Progress |
