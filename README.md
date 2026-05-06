@@ -35,17 +35,16 @@ Built With: HTML, CSS, JavaScript
 
 ## 📜 Certifications
 
-IBM Full Stack Software Developer Professional Certificate  
-:contentReference[oaicite:0]{index=0} via :contentReference[oaicite:1]{index=1}
-
-FreeCodeCamp Certifications:
+[IBM Full Stack Software Developer Professional Certificate  
+](url)
+[FreeCodeCamp Certifications:
+](url)
 - Responsive Web Design (Verified)
 - JavaScript Algorithms & Data Structures (Verified)
 - Backend & Frontend coursework (in progress exposure through projects)
 
 ## 🔗 Find Me
 
-Portfolio • GitHub • LinkedIn • Itch.io
 [![Portfolio](https://img.shields.io/badge/Portfolio-jacobjones.dev-00ff88?style=for-the-badge&logoColor=white)](https://jacobjones.dev) [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://jjones26.itch.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-spencer-jones) [![Devlog](https://img.shields.io/badge/Devlog-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jjones26/devlog)
 <p align="center"> <i>Available for collaboration on full-stack web apps and game development projects.</i><br> <i>Reach out via <a href="https://jacobjones.dev/#contact">my portfolio</a> or <a href="https://www.linkedin.com/in/jacob-spencer-jones">LinkedIn</a>.</i> </p>
 
