@@ -50,7 +50,6 @@ Fast-paced arcade shooter built in Godot with wave-based survival mechanics and 
 ## 📜 Certifications
 
 - IBM Full Stack Software Developer Professional Certificate  
-  :contentReference[oaicite:0]{index=0} via :contentReference[oaicite:1]{index=1}  
 
 - freeCodeCamp Certifications  
   - Responsive Web Design  
