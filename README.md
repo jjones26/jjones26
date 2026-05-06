@@ -21,17 +21,21 @@ I build software that is structured, intuitive, and user-focused.
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 🚀 Featured Projects
-Fast-paced arcade shooter built in Godot with wave-based survival mechanics and scaling difficulty systems.
 
-Built With: Godot, GDScript
+[TwentyOne: Pure Blackjack
+](url)
+-Minimalist Blackjack game focused on clean UI, game logic, and responsive interaction design.
+-Built With: HTML, CSS, JavaScript
 
-Web-based daily puzzle game featuring dynamic content generation and interactive UI logic.
+[The Daily Crostic
+](url)
+-Web-based daily puzzle game featuring dynamic content generation and interactive UI logic.
+-Built With: HTML, CSS, JavaScript
 
-Built With: HTML, CSS, JavaScript
-
-Minimalist Blackjack game focused on clean UI, game logic, and responsive interaction design.
-
-Built With: HTML, CSS, JavaScript
+[Space Arena
+](url)
+-Fast-paced arcade shooter built in Godot with wave-based survival mechanics and scaling difficulty systems.
+-Built With: Godot, GDScript
 
 ## 📜 Certifications
 
