@@ -23,7 +23,7 @@ I build software that is structured, intuitive, and user-focused.
 ## 🚀 Featured Projects
 
 [TwentyOne: Pure Blackjack
-](url)
+]([url](https://jjones26.itch.io/twentyone-blackjack))
 -Minimalist Blackjack game focused on clean UI, game logic, and responsive interaction design.
 -Built With: HTML, CSS, JavaScript
 
